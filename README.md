@@ -12,7 +12,7 @@ Trabalho acadêmico de eletricidade aplicada que documenta um protótipo didáti
 
 ## Arquivos do projeto
 
-- Sketch Arduino (`.ino`) com o código-fonte do protótipo (adicionado ao repositório).
+- Sketch Arduino (`.ino`) com o código-fonte do protótipo.
 - `diagram.json` com a topologia de componentes e conexões da simulação.
 - `Relatorio_Tecnico_Controle_de_Acesso.docx` com a descrição integral, tabelas de pinagem e diagramas incorporados.
 
