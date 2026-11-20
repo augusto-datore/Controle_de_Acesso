@@ -1,0 +1,12 @@
+# Ignorar segredos e artefatos locais
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
