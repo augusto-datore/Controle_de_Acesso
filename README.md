@@ -1,6 +1,8 @@
 # Protótipo acadêmico de controle de acesso
 
-Trabalho acadêmico de eletricidade aplicada que documenta um protótipo didático de cancela automática para estacionamento. O repositório reúne o sketch Arduino (`.ino`), a simulação/circuito no Wokwi (`diagram.json`) e o relatório técnico em `.docx` descrevendo a montagem com Arduino UNO, sensor ultrassônico HC-SR04, servomotor SG90, LED RGB, buzzer passivo, botão e potenciômetro.
+Trabalho acadêmico de eletricidade aplicada que documenta um protótipo didático de cancela automática para estacionamento. O repositório reúne o sketch Arduino (`codigo.ino`), a simulação do circuito no Wokwi (`diagrama.json`) e o relatório técnico em `.docx`, que descreve a montagem com Arduino UNO, sensor ultrassônico HC-SR04, servomotor SG90, LED RGB, buzzer passivo, botão e potenciômetro.
+
+O circuito está representado para simulação no Wokwi. Não foram realizados testes físicos em bancada ou em uma instalação real.
 
 ## Funcionamento descrito
 
@@ -12,12 +14,12 @@ Trabalho acadêmico de eletricidade aplicada que documenta um protótipo didáti
 
 ## Arquivos do projeto
 
-- Sketch Arduino (`.ino`) com o código-fonte do protótipo.
-- `diagram.json` com a topologia de componentes e conexões da simulação.
-- `Relatorio_Tecnico_Controle_de_Acesso.docx` com a descrição integral, tabelas de pinagem e diagramas incorporados.
+- `codigo.ino`: sketch Arduino com o código-fonte do protótipo.
+- `diagrama.json`: topologia de componentes e conexões da simulação Wokwi.
+- `Relatorio_Tecnico_Controle_de_Acesso.docx`: relatório acadêmico com a descrição, tabelas de pinagem e diagramas incorporados.
 
 ## Limites desta publicação
 
-Este repositório reúne o sketch Arduino, a descrição da montagem/simulação e o relatório acadêmico do projeto; não contém arquivos CAD nem um esquema elétrico editável em formato dedicado. As descrições e resultados são os registrados no escopo acadêmico; não constituem certificação de segurança, validação para uma instalação real ou evidência de ensaios além do escopo acadêmico.
+Este repositório reúne o sketch Arduino, a descrição da montagem/simulação e o relatório acadêmico; não contém arquivos CAD nem um esquema elétrico editável em formato dedicado. As descrições e resultados são os registrados no escopo acadêmico; não constituem certificação de segurança, validação para uma instalação real ou evidência de ensaios físicos.
 
 Consulte `Relatorio_Tecnico_Controle_de_Acesso.docx` para a descrição integral, tabelas de pinagem e diagramas incorporados.
