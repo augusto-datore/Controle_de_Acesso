@@ -2,7 +2,7 @@
 
 Trabalho acadêmico de eletricidade aplicada que documenta um protótipo didático de cancela automática para estacionamento. O repositório reúne o sketch Arduino (`codigo.ino`), a simulação do circuito no Wokwi (`diagrama.json`) e o relatório técnico em `.docx`, que descreve a montagem com Arduino UNO, sensor ultrassônico HC-SR04, servomotor SG90, LED RGB, buzzer passivo, botão e potenciômetro.
 
-O circuito está representado para simulação no Wokwi. Não foram realizados testes físicos em bancada ou em uma instalação real.
+O repositório inclui o diagrama do circuito para simulação no Wokwi. O relatório técnico registra testes em bancada com Arduino conectado via USB e uma maquete; não há teste em uma instalação real documentado.
 
 ## Funcionamento descrito
 
